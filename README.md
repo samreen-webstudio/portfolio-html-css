@@ -26,3 +26,8 @@ You can check out my sample projects on [GitHub](https://github.com/samreen-fron
 
 ## License
 This portfolio is for **learning, freelancing showcase, and professional purposes**. You can use the code for personal projects or educational purposes.
+
+Project Preview
+Click the image below to view the project on Twitter:
+
+Project Preview ---> (https://x.com/dev_samreen/status/1965702636969320666)
